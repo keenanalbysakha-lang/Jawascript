@@ -1,0 +1,12 @@
+{
+  "name": "jawascript-lang",
+  "version": "1.0.0",
+  "description": "Bahasa pemrograman Javascript kearifan lokal Jawa",
+  "main": "index.js",
+  "bin": {
+    "jawascript": "./index.js"
+  },
+  "keywords": ["jawascript", "javanese", "transpiler"],
+  "author": "Nama Kamu",
+  "license": "MIT"
+}
